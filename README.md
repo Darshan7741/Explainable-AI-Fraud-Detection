@@ -229,5 +229,8 @@ If port 8000 or 3000 is already in use:
 ### CORS Issues
 CORS is configured to allow all origins in development. For production, update `backend/app/main.py` to specify allowed origins.
 
+## Dataset Download
 
+Download the dataset here:
+https://drive.google.com/file/d/1sbNZq6WULZ0MhRFrDYBDOyHIzYnwk2A-/view?usp=sharing
 
